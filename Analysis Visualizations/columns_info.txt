@@ -1,0 +1,34 @@
+Unnamed: 0_x
+order_id
+user_id
+eval_set
+order_number
+order_dow
+order_hour_of_day
+days_since_prior_order
+product_id
+add_to_cart_order
+reordered
+Unnamed: 0_y
+product_name
+aisle_id
+department_id
+prices
+busiest_period_of_day
+price_label
+busiest_day
+busiest_days
+loyalty_flag
+order_count
+spending_flag
+spending_category
+order_frequency_flag
+order_frequency_category
+Gender
+STATE
+Age
+date_joined
+n_dependants
+fam_status
+income
+Prices
